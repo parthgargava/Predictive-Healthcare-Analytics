@@ -1,0 +1,11 @@
+@relation ads
+
+@attribute health numeric
+@attribute indicator numeric
+@attribute profit {Y, N}
+
+@data
+4,11,Y
+14,15,N
+13,9,Y
+7,1,Y

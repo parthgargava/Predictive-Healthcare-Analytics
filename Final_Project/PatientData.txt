@@ -1,0 +1,17 @@
+@relation ads
+
+@attribute health numeric
+@attribute indicator numeric
+@attribute profit {Y, N}
+
+@data
+
+14,14.2531,N
+16,14.2531,N
+1,13.5534,N
+3,11.61215,N
+19,11.52648,N
+3,11.6664295,N
+11,11.61264,N
+19,11.6664295,N
+5,10.268328,N
